@@ -1,12 +1,12 @@
 README.md
 
-#Instructions:
+# Instructions:
 Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
 
-#Headers
-##The above is a header
+# Headers
+## The above is a header
 
-##Lists
+## Lists
 Unordered list
 -the table
 -will list
@@ -17,11 +17,11 @@ Ordered list
 2. Will list
 3. Some sandwiches
 
-##Links
+## Links
 [My Favorite National Geographic Clip](https://www.youtube.com/watch?v=Bkq1PAyGuZY)
 
-##Images
-![bug image](/Users/bria/Desktop/tfcb-homework01/images/casent_0191696_camponotus_darwinii.jpg)
+## Images
+![bug image](/images/casent_0191696_camponotus_darwinii.jpg)
 
 ##Tables
 | col1 | col2 | col3 |
