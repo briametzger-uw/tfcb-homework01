@@ -8,9 +8,9 @@ Demonstrate headers, lists, links, embedded images (by linking to images contain
 
 ## Lists
 Unordered list
--the table
--will list
--some sandwiches
+- the table
+- will list
+- some sandwiches
 
 Ordered list
 1. The table
